@@ -2,6 +2,10 @@
 
 利用Python的Flask库搭建的阿里token相关服务。
 
+![image](https://dartnode.com/assets/dash/images/brand/favicon.png)
+
+可以搭建于： https://dartnode.com/
+
 ## 使用方法：
 
 ### 自行部署到replit等平台，或利用docker部署。token经过AES加密，防止token泄露，iv与key自行保存。
